@@ -1,0 +1,3 @@
+[submodule "vendor/premake-setup"]
+	path = vendor/premake-setup
+	url = git@github.com:Filipeak/premake-setup.git
