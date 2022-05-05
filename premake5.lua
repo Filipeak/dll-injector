@@ -54,8 +54,8 @@ project "Sandbox"
 	}
 
 	files {
-		"%{prj.name}/**.h",
-		"%{prj.name}/**.cpp"
+		"%{prj.name}/src/**.h",
+		"%{prj.name}/src/**.cpp"
 	}
 
 	includedirs {
